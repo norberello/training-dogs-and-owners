@@ -1,5 +1,10 @@
 # training-dogs-and-owners
 
+<p class="aligncenter">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F61%2Fc2%2Fc8%2F61c2c8e08baaa4cf00fdfe53b2b7fdda.gif&f=1&nofb=1" alt="centered image" />
+</p>
+
+
 Replicating analyses made in the paper entitled
 
 Stevens, J. R., Wolff, L. M., Bosworth, M., &amp; Morstad, J. (2021). Dog and owner characteristics predict training success. Animal Cognition, 24(2), 219–230. https://doi.org/10.1007/s10071-020-01458-0 
